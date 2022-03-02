@@ -3,7 +3,7 @@ My Solutions to the Blind 75 Best Leetcode Questions
 The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 * Array
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Best Time to Buy and Sell Stock
 - [ ] Contains Duplicate
 - [ ] Product of Array Except Self
@@ -14,12 +14,14 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 - [ ] 3 Sum
 - [ ] Container With Most Water
 
+
 * Binary
 - [ ] Sum of Two Integers
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Missing Number
 - [ ] Reverse Bits
+
 
 * Dynamic Programming
 - [ ] Climbing Stairs
@@ -34,6 +36,7 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 - [ ] Unique Paths
 - [ ] Jump Game
 
+
 * Graph
 - [ ] Clone Graph
 - [ ] Course Schedule
@@ -44,12 +47,14 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 - [ ] Graph Valid Tree (Leetcode Premium)
 - [ ] Number of Connected Components in an Undirected Graph (Leetcode Premium)
 
+
 * Interval
 - [ ] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms (Leetcode Premium)
 - [ ] Meeting Rooms II (Leetcode Premium)
+
 
 * Linked List
 - [ ] Reverse a Linked List
@@ -59,11 +64,13 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 - [ ] Remove Nth Node From End Of List
 - [ ] Reorder List
 
+
 * Matrix
 - [ ] Set Matrix Zeroes
 - [ ] Spiral Matrix
 - [ ] Rotate Image
 - [ ] Word Search
+
 
 * String
 - [ ] Longest Substring Without Repeating Characters
@@ -76,6 +83,7 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Encode and Decode Strings (Leetcode Premium)
+
 
 * Tree
 - [ ] Maximum Depth of Binary Tree
@@ -92,6 +100,7 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 - [ ] Implement Trie (Prefix Tree)
 - [ ] Add and Search Word
 - [ ] Word Search II
+
 
 * Heap
 - [ ] Merge K Sorted Lists

@@ -97,3 +97,7 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 - [ ]Merge K Sorted Lists
 - [ ]Top K Frequent Elements
 - [ ]Find Median from Data Stream
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:

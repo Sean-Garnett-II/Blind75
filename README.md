@@ -16,7 +16,7 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 
 
 * Binary
-- [ ] Sum of Two Integers
+- [x] Sum of Two Integers
 - [ ] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Missing Number
@@ -57,7 +57,7 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 
 
 * Linked List
-- [ ] Reverse a Linked List
+- [x] Reverse a Linked List
 - [ ] Detect Cycle in a Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Merge K Sorted Lists
@@ -66,7 +66,7 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 
 
 * Matrix
-- [ ] Set Matrix Zeroes
+- [x] Set Matrix Zeroes
 - [ ] Spiral Matrix
 - [ ] Rotate Image
 - [ ] Word Search

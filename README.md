@@ -17,14 +17,14 @@ The [Blind75 List](https://leetcode.com/discuss/general-discussion/460599/blind-
 
 * Binary
 - [x] Sum of Two Integers
-- [ ] Number of 1 Bits
+- [x] Number of 1 Bits
 - [ ] Counting Bits
 - [ ] Missing Number
 - [ ] Reverse Bits
 
 
 * Dynamic Programming
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] Coin Change
 - [ ] Longest Increasing Subsequence
 - [ ] Longest Common Subsequence

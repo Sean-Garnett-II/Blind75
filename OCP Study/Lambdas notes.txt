@@ -1,0 +1,28 @@
+Ch 6: Lambdas and Functional Interfaces
+
+Lambda Syntax
+
+(parameters) -> { body }
+parameter -> body
+with no braces you don't need to use a semicolin or type a return statement
+
+Lambas only work with interfaces that have only one abstract method. 
+These are called Functional Interaces
+
+The functional interface has only one abstract method
+SAM Rule Single Abstract Method
+
+Predicate
+
+public interface Predicate<T> {
+	boolean test(T t);
+}
+
+Variables in Lambdas
+
+Parameter List
+Local Variables inside the Lambda Body
+Variables Referenced from the Lambda Body
+	Instance and local variables are always allowed
+	Method parameters and local variables are allowed to be referenced if they are effectivly final
+
